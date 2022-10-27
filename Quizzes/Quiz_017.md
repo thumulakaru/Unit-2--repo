@@ -21,4 +21,4 @@ print(avarageLength())
 ```
 
 ## Tests
-![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Screen%20Shot%202022-10-25%20at%2014.06.31.png)
+![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Quiz_017_Tests.png)
