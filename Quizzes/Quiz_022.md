@@ -28,10 +28,26 @@ print(*display, sep="\n")
 **Figure 1:** Tests for the quiz
 
 ## Part B
-### Proof
+### Truth Table
+
+| A | B | A+B | A(A+B) |
+|:-:|:-:|:---:|:------:|
+| 0 | 0 |  0  |    0   |
+| 0 | 1 |  1  |    0   |
+| 1 | 0 |  1  |    1   |
+| 1 | 1 |  1  |    1   |
+### Another way
+
 A = A(A+B)
 When A = 0, the output is always going to be 0 due to the AND logic between A and A+B. This means that no matter the B's value if A is 0 the output is always
 0. Also if A = 1, the output is always going to be 1 because, A + B = 1 and A.(A+B) = A.(1) = 1. Therefore no matter what value B has it does not have an
 effect on the output. Thus,
 
 A = A(A+B) is true.
+Therefore,
+| A | B | Output(A) |
+|:-:|:-:|:---------:|
+| 0 | 0 |     0     |
+| 0 | 1 |     0     |
+| 1 | 0 |     1     |
+| 1 | 1 |     1     |
