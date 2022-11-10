@@ -59,6 +59,8 @@ while True:
 ![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Tasks/Task2_Evidence.jpeg)
 *Fig.2* **Photo of the build**
 
+As we can see in figure 2, 5,9,12 ports are connected to LEDs which makes the LEDs light up according to the 
+
 ## Video
 
 [Click here for the video](https://drive.google.com/file/d/1f_uqRTZztHHKePOmN2UyAHlGDSkFtJRf/view?usp=share_link)
