@@ -1,8 +1,13 @@
 # System Diagram Binary Counter
 # Task 2
 
+## System Diagram
+![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Tasks/Task2_System_Diagram.jpeg)
+
+
 ## Prompt
 To build the circuit below using Arduino and create the program in Python to control the LED.
+*Fig.1* **System Diagram**
 
 ## Code Structure(Forever) 
 ```.py
@@ -52,7 +57,7 @@ while True:
 
 ## Evidence
 ![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Tasks/Task2_Evidence.jpeg)
-*Fig.1* **Photo of the build**
+*Fig.2* **Photo of the build**
 
 ## Video
 
