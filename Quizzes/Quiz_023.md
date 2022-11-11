@@ -30,6 +30,8 @@ plt.show()
 ```
 ### Tests
 ![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Quiz_023_Tests.png)
+
+**Fig. 1** Tests for Quiz 23 part A
 ## Part B
 ### Truth Table
 
