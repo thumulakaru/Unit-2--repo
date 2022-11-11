@@ -24,4 +24,4 @@ plt.show()
 
 ## Part B
 ### Boolean cricuit
-![]()
+![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Quiz_024_Boolean_Circuit.jpg)
