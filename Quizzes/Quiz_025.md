@@ -21,6 +21,4 @@ plt.show()
 **Fig.1:** Tests for the solution
 
 ## Part A
-FFA5 = (15x16x16x16)+(15x16x16)+(15x16)+(5x1)
-
-     = 65445
+FFA5 = (15x16x16x16)+(15x16x16)+(15x16)+(5x1) = 65445
