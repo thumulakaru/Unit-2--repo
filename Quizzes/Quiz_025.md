@@ -17,8 +17,10 @@ plt.show()
 
 ### Tests
 ![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Quiz_025_Tests.png)
+
 **Fig.1:** Tests for the solution
 
 ## Part A
 FFA5 = (15x16x16x16)+(15x16x16)+(15x16)+(5x1)
+
      = 65445
