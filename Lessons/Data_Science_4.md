@@ -38,3 +38,6 @@ plt.errorbar(samples, mean, standard_dev, fmt='o')
 
 plt.show()
 ```
+
+## Date
+Thursday, 17th November 2022
