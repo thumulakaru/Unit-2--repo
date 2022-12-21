@@ -51,7 +51,7 @@ plt.title("Differences", color = "blue")
 plt.show()
 ```
 ### Tests
-![]()
+![](https://github.com/thumulakaru/Unit-2--repo/blob/main/Quizzes/Quiz_032_Tests.png)
 
 ## Part B
 ### Answer
